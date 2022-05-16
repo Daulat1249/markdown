@@ -9,4 +9,4 @@
 - here is a name of a book **_IKIGAI_**
 ###### making links 
 - inline link 
- [Click for github !](www.github.com)
+ [Click for markdown tutorial!](https://www.markdowntutorial.com/lesson/3/)
