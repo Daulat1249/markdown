@@ -10,3 +10,5 @@
 ###### making links 
 - inline link 
  [Click for **MARKDOWN** tutorial!](https://www.markdowntutorial.com/lesson/3/)
+- creating link for a  certain text 
+- the latest news from [ The BBC](https://www.bbc.com/news)
